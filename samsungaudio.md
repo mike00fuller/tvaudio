@@ -37,7 +37,7 @@ https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explai
 |**HW-800**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch**|Dolby Atmos DTS:X <br> LPCM 8Ch |
 |**HW-700**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch** |Dolby Atmos <br> DTS 5.1ch DTS HD <br> DTS-HD Master Audio / DTS:X |
 |**HW-600**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch** |DTS:X, HD Master Audio<br> Dolby Atmos|
-|**HW-59C**|**T-2020**|**5.1**|DTS Virtual:X<br> PCM 2ch<br>**Dolby 5.1**|
+|**HW-59C**|**T-2020**|**5.1**|DTS Virtual:X<br> PCM 2 ch<br>**Dolby 5.1**|
 
 
 ## A SERIES
