@@ -1,8 +1,8 @@
 # TV & AUDIO
 ## Features Glossary
 - **Dolby Atmos** : Utilizes a 9.1-bed channel, to place sounds with precise positioning. Atmos-compatible speakers have integrated upward-firing drivers.
-/../main/Samsung-sounbar-model-number-explained-en.jpg
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+/../main/
+![GitHub Light](https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explained-en.jpg#gh-dark-mode-only)
 
 
 <br>
