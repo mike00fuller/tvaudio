@@ -1,11 +1,10 @@
 # TV & AUDIO
 ## Features Glossary
 - **Dolby Atmos** : Utilizes a 9.1-bed channel, to place sounds with precise positioning. Atmos-compatible speakers have integrated upward-firing drivers.
-- **Dolby Digital** :
-- **Dolby True HD** :
+- **Dolby Digital & True HD** :
 - **DTS-X** :
-- **DTS HD** :
-- **LPCM 2.0** : 
+- **Tap Sound Connect** :
+- **L.PCM 2.0** : 
 https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explained-en.jpg#gh-dark-mode-only
 
 
@@ -33,13 +32,12 @@ https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explai
 | Model | Year | Channels | Flag Feature |
 |-------|----------|------|--------|
 |**HW-950**|**A-2021**<br>**T-2020**<br>**R-2019**|**11.1.4 ch**<br>**9.1.4 ch** <br>**7.1.4 ch**|Dolby Atmos<br> Dolby Digital<br> DTS-X, WiFi&BT|
-|**HW-900**|**A-2021**<br>**T-2020**<br>**R-2019**|**7.1.2 ch**<br> *SWA* **9.1.4 ch**|Dolby 5.1<br> Dolby Atmos<br> Dolby Digital Plus<br> True HD|
-|**HW-850**|**A-2021**<br>**T-2020**<br>**R-2019**|**5.1.2 ch**<br>**3.1.2**|850 features|
-|**HW-800**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch**<br>***SWA* 5.1.4 ch**|
-|**HW-700**|**A-2021**<br>**T-2020**<br>**R-2019**| Dolby ATMOS
-DTS 5.1ch / DTS HD / DTS-HD Master Audio / DTS:X |3.1.2|
-|**HW-600**|**A-2021**<br>**T-2020**<br>**R-2019**|]----br> -|
-|**HW-59C**|**T-2020**|---|
+|**HW-900**|**A-2021**<br>**T-2020**<br>**R-2019**|**7.1.2 ch**<br> *SWA* **9.1.4 ch**|Dolby Atmos<br> Dolby Digital Plus<br> **True HD**|
+|**HW-850**|**A-2021**<br>**T-2020**<br>**R-2019**|**5.1.2 ch**<br>**3.1.2**|WiFi-BT-Tap Sound Connect<br>Alexa<br>Dolby Atmos(True HD/Digital Plus)|
+|**HW-800**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch**|Dolby Atmos DTS:X <br> LPCM 8Ch |
+|**HW-700**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch** |Dolby Atmos <br> DTS 5.1ch DTS HD <br> DTS-HD Master Audio / DTS:X |
+|**HW-600**|**A-2021**<br>**T-2020**<br>**R-2019**|**3.1.2 ch** |DTS:X, HD Master Audio<br> Dolby Atmos|
+|**HW-59C**|**T-2020**|**5.1**|DTS Virtual:X<br> PCM 2ch<br>**Dolby 5.1**|
 
 
 ## A SERIES
