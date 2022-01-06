@@ -4,7 +4,7 @@
 - **Dolby Digital** :
 - **Dolby True HD** :
 - **DTS-X** :
-- **DTS HD ** :
+- **DTS HD** :
 - **LPCM 2.0** : 
 https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explained-en.jpg#gh-dark-mode-only
 
@@ -39,8 +39,8 @@ https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explai
 |**HW-800**|**A-2021**<br>**T-2020**<br>**R-2019**|------|**3.1.2 ch**<br> *SWA* **5.1.4 ch**|
 |**HW-700**|**A-2021**<br>**T-2020**<br>**R-2019**| Dolby ATMOS
 DTS 5.1ch / DTS HD / DTS-HD Master Audio / DTS:X |3.1.2|
-|**HW-600**|**A-2021**<br>**T-2020**<br>**R-2019**|2021 ----- <br> 2020-----<br> 2019--|
-|**HW-59C**|**T-2020**|2020-----|
+|**HW-600**|**A-2021**<br>**T-2020**<br>**R-2019**|]----br> -|
+|**HW-59C**|**T-2020**|---|
 
 
 ## A SERIES
