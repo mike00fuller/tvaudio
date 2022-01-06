@@ -6,6 +6,24 @@
 
 
 <br>
+<br>
+<br>
+<br>
+
+
+### Questions
+- Are the audio processor in sound bars compatible with a specific year model of devices, for example will a pre-2010 tv support avi connections.
+- Are customers usually aware of the positioning of surround systems especially the complicated sets with over 20 components. and does it play a major role in quality.
+- How often 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Q Series
 | MODEL | YEAR | FEATURES | CHANNEL |
