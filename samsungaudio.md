@@ -14,9 +14,11 @@ https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explai
 
 
 ### Questions
-- The subwoofer remains the deciding factor in buying a speaker, a customer can use it with another brand subwoofer.
-- Can a sounbar replace two small speakers and a sub woofer in the manner of an upgrade?
-- If you were split in deciding between DTS and Dolby codec features which one would you pick? 
+**1. The subwoofer remains the deciding factor in buying a speaker, a customer can use it with another brand subwoofer.
+**2. Can a sounbar replace two small speakers and a sub woofer in the manner of an upgrade?
+**3. If you were split in deciding between DTS and Dolby codec features which one would you pick? choice with ARC and eARC
+**4. When buying a sounbar, space plays a big role and aspirations for your next tv also matters since most bars can last very long. What other things should I consider?
+**5. 
 
 
 <br>
