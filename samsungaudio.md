@@ -4,8 +4,11 @@
 - **Dolby Digital & True HD** : Dolby compresses at a 10:1 ratio and a bit rate of 640kb/s. sound is transmitted with efficiency and speed.
 - **DTS-X** : The coding and decoding mech produces a higher bit rate of 1.5mb/s while compressing at a ratio of 4:1. low ratio provides realism in sound.
 - **L.PCM 2.0** : Linear Pulse Code Modulation to digitally represent analog signals.
+- **WIfi Direct**
+- **Bluetooth**
+- Drivers
 https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explained-en.jpg#gh-dark-mode-only
-
+NOx Messesnger
 
 <br>
 <br>
