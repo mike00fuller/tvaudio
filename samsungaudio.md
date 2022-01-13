@@ -1,14 +1,17 @@
 # TV & AUDIO
 ## Features Glossary
 - **Dolby Atmos** : Utilizes a 9.1-bed channel, to place sounds with precise positioning. Atmos-compatible speakers have integrated upward-firing drivers.
+- **Matrix Surround Decoding** : The process of extracting several channels from a two channel system.
+- **Dolby Surround Sound** : A three channel system comprising of two front drivers on the left and right with a mono signal sent to two rear surround speakers.
 - **Dolby Digital & True HD** : Dolby compresses at a 10:1 ratio and a bit rate of 640kb/s. sound is transmitted with efficiency and speed.
+- **Dolby Pro-Logic Surround Sound** : Dolby Pro Logic added a center driver to integrate a 5 channel system composed of a *L *C *R and a rear mono matrix driver.
+- **
 - **DTS-X** : The coding and decoding mech produces a higher bit rate of 1.5mb/s while compressing at a ratio of 4:1. low ratio provides realism in sound.
 - **L.PCM 2.0** : Linear Pulse Code Modulation to digitally represent analog signals.
-- **WIfi Direct**
-- **Bluetooth**
+
 - Drivers
 https://github.com/mike00fuller/mike00fuller/Samsung-sounbar-model-number-explained-en.jpg#gh-dark-mode-only
-NOx Messesnger
+knox 
 
 <br>
 <br>
@@ -17,10 +20,7 @@ NOx Messesnger
 
 
 ### Questions
-**1. The subwoofer remains the deciding factor in buying a speaker, a customer can use it with another brand subwoofer.
-**2. Can a sounbar replace two small speakers and a sub woofer in the manner of an upgrade?
-**3. If you were split in deciding between DTS and Dolby codec features which one would you pick? choice with ARC and eARC
-**4. When buying a sounbar, space plays a big role and aspirations for your next tv also matters since most bars can last very long. What other things should I consider?
+**1. 
 **5. 
 
 
